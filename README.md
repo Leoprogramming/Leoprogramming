@@ -1,9 +1,9 @@
 # :man_technologist: Leo Costa
 
+    Hi there, my name is Leo Costa and I'm a Full-Stack Developer! MERN Stack + Ruby
+You can reach me via: 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/leonardo-costa-programmer/)](https://www.linkedin.com/in/leonardo-costa-programmer/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leo.costa.programming@gmail.com)](mailto:leo.costa.programming@gmail.com)
-
-    Hi there, my name is Leo Costa and I'm a Full-Stack Developer! MERN Stack + Ruby  
 
 ## Knowledge
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/Leoprogramming/)](https://github.com/Leoprogramming/)
@@ -21,7 +21,16 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/Leoprogramming/)](https://github.com/Leoprogramming/)
 
 [![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&link=https://github.com/Leoprogramming/)](https://github.com/Leoprogramming/)
+[![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma&link=https://github.com/Leoprogramming/)](https://github.com/Leoprogramming/)
 ---
+
+About Me: 
+✓Team Worker 
+✓Fast-Learner
+✓Highly Motivated
+✓Always Willing to Improve
+
+Previous skills include Project/Operations Management 💼⠀& Teaching 📚.
 
 <!--
 **Leoprogramming/Leoprogramming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
