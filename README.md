@@ -30,7 +30,7 @@ About Me:
 ✓Highly Motivated
 ✓Always Willing to Improve
 
-Previous skills include Project/Operations Management 💼⠀& Teaching 📚.
+Previous skills include Project Management/Operations 💼⠀& Teaching 📚.
 
 <!--
 **Leoprogramming/Leoprogramming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
