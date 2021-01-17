@@ -24,14 +24,6 @@ You can reach me via:
 [![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma&link=https://github.com/Leoprogramming/)](https://github.com/Leoprogramming/)
 ---
 
-About Me: 
-✓Team Worker 
-✓Fast-Learner
-✓Highly Motivated
-✓Always Willing to Improve
-
-Previous skills include Project Management/Operations 💼⠀& Teaching 📚.
-
 <!--
 **Leoprogramming/Leoprogramming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
