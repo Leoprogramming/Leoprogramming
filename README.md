@@ -7,6 +7,8 @@ You can reach me via:
 
 ## Knowledge
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/Leoprogramming/)](https://github.com/Leoprogramming/)
+[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/Leoprogramming/)](https://github.com/Leoprogramming/)
++
 [![Ruby](https://img.shields.io/badge/-Ruby-black?style=flat-square&logo=ruby&logoColor=red&link=https://github.com/Leoprogramming/)](https://github.com/Leoprogramming/)
 
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/Leoprogramming/)](https://github.com/Leoprogramming/)
@@ -14,13 +16,15 @@ You can reach me via:
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/Leoprogramming/)](https://github.com/Leoprogramming/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&link=https://github.com/Leoprogramming/)](https://github.com/Leoprogramming/)
 
-[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/Leoprogramming/)](https://github.com/Leoprogramming/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/Leoprogramming/)](https://github.com/Leoprogramming/)
+[![SQLite](https://img.shields.io/badge/-sqlite-black?style=flat-square&logo=sqlite&link=https://github.com/Leoprogramming/)](https://github.com/Leoprogramming/)
 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/Leoprogramming/)](https://github.com/Leoprogramming/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/Leoprogramming/)](https://github.com/Leoprogramming/)
 
 [![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&link=https://github.com/Leoprogramming/)](https://github.com/Leoprogramming/)
+[![Netlify](https://img.shields.io/badge/-Netlify-430098?style=flat-square&logo=netlify&link=https://github.com/Leoprogramming/)](https://github.com/Leoprogramming/)
+
 [![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma&link=https://github.com/Leoprogramming/)](https://github.com/Leoprogramming/)
 ---
 
