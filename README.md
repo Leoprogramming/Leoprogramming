@@ -9,9 +9,9 @@ You can reach me via:
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/Leoprogramming/)](https://github.com/Leoprogramming/)
 [![Ruby](https://img.shields.io/badge/-Ruby-black?style=flat-square&logo=ruby&logoColor=red&link=https://github.com/Leoprogramming/)](https://github.com/Leoprogramming/)
 
+[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/Leoprogramming/)](https://github.com/Leoprogramming/)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/Leoprogramming/)](https://github.com/Leoprogramming/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/Leoprogramming/)](https://github.com/Leoprogramming/)
-[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/Leoprogramming/)](https://github.com/Leoprogramming/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&link=https://github.com/Leoprogramming/)](https://github.com/Leoprogramming/)
 
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/Leoprogramming/)](https://github.com/Leoprogramming/)
