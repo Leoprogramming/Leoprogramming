@@ -1,6 +1,7 @@
 # :man_technologist: Leo Costa
 
-    Hi there, my name is Leo Costa and I'm a Full-Stack Developer! JavaScript - React (MERN Stack) + Ruby
+Hi there, my name is Leo Costa and I'm a Full-Stack Developer! JavaScript - React + Branching out to new technologies (Python, Ruby, C# and more)
+
 You can reach me via: 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/leonardo-costa-programmer/)](https://www.linkedin.com/in/leonardo-costa-programmer/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leo.costa.programming@gmail.com)](mailto:leo.costa.programming@gmail.com)
